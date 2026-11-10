@@ -6,10 +6,87 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "dash.json",
+    "filename": "vsysinfo",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/dashboard"
+    "content": "https://jira.telekom.de/secure/admin/ViewSystemInfo.jspa"
+   },
+   {
+    "id": "2",
+    "filename": "vappprops",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/admin/ViewApplicationProperties.jspa"
+   },
+   {
+    "id": "3",
+    "filename": "vlicense",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/admin/jira/ViewLicense.jspa"
+   },
+   {
+    "id": "4",
+    "filename": "listapplinks",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/admin/ListApplicationLinks.jspa"
+   },
+   {
+    "id": "5",
+    "filename": "applinks-servlet",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/plugins/servlet/applinks/listApplicationLinks"
+   },
+   {
+    "id": "6",
+    "filename": "oauth-consumers",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/plugins/servlet/oauth/consumers/list"
+   },
+   {
+    "id": "7",
+    "filename": "about",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/AboutPage.jspa"
+   },
+   {
+    "id": "8",
+    "filename": "sysinfo2",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/SystemInfo.jspa"
+   },
+   {
+    "id": "9",
+    "filename": "appprops-rest",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/application-properties"
+   },
+   {
+    "id": "10",
+    "filename": "config-rest",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/configuration"
+   },
+   {
+    "id": "11",
+    "filename": "applink-rest",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/applicationlink"
+   },
+   {
+    "id": "12",
+    "filename": "dashboard-jspa",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/Dashboard.jspa"
    }
   ]
  }

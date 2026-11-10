@@ -6,24 +6,10 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "login.jsp",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/login.jsp"
-   },
-   {
-    "id": "2",
-    "filename": "mcp-healthz",
+    "filename": "healthz",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://mcp.jira.telekom.de/healthz"
-   },
-   {
-    "id": "3",
-    "filename": "mcp-root",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://mcp.jira.telekom.de/healthz?probe=1"
    }
   ]
  }

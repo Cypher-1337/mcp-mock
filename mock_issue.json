@@ -6,87 +6,45 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "vsysinfo",
+    "filename": "robots.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/admin/ViewSystemInfo.jspa"
+    "content": "https://jira.telekom.de/robots.txt"
    },
    {
     "id": "2",
-    "filename": "vappprops",
+    "filename": "internal-login.jsp",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/admin/ViewApplicationProperties.jspa"
+    "content": "https://jira.telekom.de/login.jsp"
    },
    {
     "id": "3",
-    "filename": "vlicense",
+    "filename": "applinks-manifest.xml",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/admin/jira/ViewLicense.jspa"
+    "content": "https://jira.telekom.de/rest/applinks/1.0/manifest"
    },
    {
     "id": "4",
-    "filename": "listapplinks",
+    "filename": "dashboard.json",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/admin/ListApplicationLinks.jspa"
+    "content": "https://jira.telekom.de/rest/api/2/dashboard"
    },
    {
     "id": "5",
-    "filename": "applinks-servlet",
+    "filename": "blocked-private.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/plugins/servlet/applinks/listApplicationLinks"
+    "content": "http://10.175.144.244/robots.txt"
    },
    {
     "id": "6",
-    "filename": "oauth-consumers",
+    "filename": "blocked-metadata.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/plugins/servlet/oauth/consumers/list"
-   },
-   {
-    "id": "7",
-    "filename": "about",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/AboutPage.jspa"
-   },
-   {
-    "id": "8",
-    "filename": "sysinfo2",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/SystemInfo.jspa"
-   },
-   {
-    "id": "9",
-    "filename": "appprops-rest",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/application-properties"
-   },
-   {
-    "id": "10",
-    "filename": "config-rest",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/configuration"
-   },
-   {
-    "id": "11",
-    "filename": "applink-rest",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/applicationlink"
-   },
-   {
-    "id": "12",
-    "filename": "dashboard-jspa",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/Dashboard.jspa"
+    "content": "http://169.254.169.254/latest/meta-data/"
    }
   ]
  }

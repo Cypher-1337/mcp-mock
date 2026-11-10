@@ -6,10 +6,122 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "login.jsp",
+    "filename": "contactadmin",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/login.jsp"
+    "content": "https://jira.telekom.de/secure/ContactAdministrators!default.jspa"
+   },
+   {
+    "id": "2",
+    "filename": "forgotlogin",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/ForgotLoginDetails.jspa"
+   },
+   {
+    "id": "3",
+    "filename": "signup",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/Signup!default.jspa"
+   },
+   {
+    "id": "4",
+    "filename": "hover_admin",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/ViewUserHover.jspa?username=admin"
+   },
+   {
+    "id": "5",
+    "filename": "hover_administrator",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/ViewUserHover.jspa?username=administrator"
+   },
+   {
+    "id": "6",
+    "filename": "profile_admin",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/ViewProfile.jspa?name=admin"
+   },
+   {
+    "id": "7",
+    "filename": "mypermissions",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/mypermissions"
+   },
+   {
+    "id": "8",
+    "filename": "oauth_authorize",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/plugins/servlet/oauth/authorize"
+   },
+   {
+    "id": "9",
+    "filename": "dashboard",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/Dashboard.jspa"
+   },
+   {
+    "id": "10",
+    "filename": "issues",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/issues/"
+   },
+   {
+    "id": "11",
+    "filename": "browse",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/browse/DT-1"
+   },
+   {
+    "id": "12",
+    "filename": "sd_portals",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/servicedesk/customer/portals"
+   },
+   {
+    "id": "13",
+    "filename": "sd_portal1",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/servicedesk/customer/portal/1"
+   },
+   {
+    "id": "14",
+    "filename": "connect",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/atlassian-connect.json"
+   },
+   {
+    "id": "15",
+    "filename": "plugins",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/plugins/1.0/"
+   },
+   {
+    "id": "16",
+    "filename": "license",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/gadget/1.0/license"
+   },
+   {
+    "id": "17",
+    "filename": "static",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/s/"
    }
   ]
  }

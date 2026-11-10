@@ -6,31 +6,38 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "mcp-8000-healthz",
+    "filename": "v4compat-metadata",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://mcp.jira.telekom.de:8000/healthz"
+    "content": "http://[::a9fe:a9fe]/latest/meta-data/"
    },
    {
     "id": "2",
-    "filename": "mcp-8080-healthz",
+    "filename": "v4compat-loopback",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://mcp.jira.telekom.de:8080/healthz"
+    "content": "http://[::7f00:1]/"
    },
    {
     "id": "3",
-    "filename": "mcp-80-healthz",
+    "filename": "v4compat-jira",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://mcp.jira.telekom.de/healthz"
+    "content": "http://[::0aaf:90f4]/robots.txt"
    },
    {
     "id": "4",
-    "filename": "mcp-443-healthz",
+    "filename": "nat64-metadata",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://mcp.jira.telekom.de/healthz"
+    "content": "http://[64:ff9b::a9fe:a9fe]/latest/meta-data/"
+   },
+   {
+    "id": "5",
+    "filename": "6to4-metadata",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://[2002:a9fe:a9fe::]/latest/meta-data/"
    }
   ]
  }

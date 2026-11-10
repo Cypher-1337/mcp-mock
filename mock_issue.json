@@ -6,66 +6,171 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "robots.txt",
+    "filename": "confluence_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/robots.txt"
+    "content": "https://confluence.jira.telekom.de/robots.txt"
    },
    {
     "id": "2",
-    "filename": "serverinfo.json",
+    "filename": "wiki_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/serverInfo"
+    "content": "https://wiki.jira.telekom.de/robots.txt"
    },
    {
     "id": "3",
-    "filename": "status.json",
+    "filename": "admin_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/status"
+    "content": "https://admin.jira.telekom.de/robots.txt"
    },
    {
     "id": "4",
-    "filename": "statuscategory.json",
+    "filename": "id_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/statuscategory"
+    "content": "https://id.jira.telekom.de/robots.txt"
    },
    {
     "id": "5",
-    "filename": "configuration.json",
+    "filename": "sso_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/configuration"
+    "content": "https://sso.jira.telekom.de/robots.txt"
    },
    {
     "id": "6",
-    "filename": "field.json",
+    "filename": "auth_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/field"
+    "content": "https://auth.jira.telekom.de/robots.txt"
    },
    {
     "id": "7",
-    "filename": "project.json",
+    "filename": "api_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/project"
+    "content": "https://api.jira.telekom.de/robots.txt"
    },
    {
     "id": "8",
-    "filename": "login.jsp",
+    "filename": "jira_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/login.jsp"
+    "content": "https://jira.jira.telekom.de/robots.txt"
    },
    {
     "id": "9",
-    "filename": "Login.jspa",
+    "filename": "bamboo_jira_telekom_de.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/secure/Login.jspa"
+    "content": "https://bamboo.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "10",
+    "filename": "bitbucket_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://bitbucket.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "11",
+    "filename": "crowd_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://crowd.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "12",
+    "filename": "jenkins_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jenkins.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "13",
+    "filename": "git_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://git.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "14",
+    "filename": "grafana_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://grafana.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "15",
+    "filename": "kibana_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://kibana.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "16",
+    "filename": "nexus_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://nexus.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "17",
+    "filename": "sonar_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://sonar.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "18",
+    "filename": "dev_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://dev.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "19",
+    "filename": "test_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://test.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "20",
+    "filename": "staging_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://staging.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "21",
+    "filename": "support_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://support.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "22",
+    "filename": "status_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://status.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "23",
+    "filename": "monitoring_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://monitoring.jira.telekom.de/robots.txt"
+   },
+   {
+    "id": "24",
+    "filename": "prometheus_jira_telekom_de.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://prometheus.jira.telekom.de/robots.txt"
    }
   ]
  }

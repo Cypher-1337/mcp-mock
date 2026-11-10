@@ -6,10 +6,10 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "healthz",
+    "filename": "login.jsp",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "https://mcp.jira.telekom.de/healthz"
+    "content": "https://jira.telekom.de/login.jsp"
    }
   ]
  }

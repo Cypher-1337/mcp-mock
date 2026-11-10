@@ -6,87 +6,10 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "applinks-manifest",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/applinks/1.0/manifest"
-   },
-   {
-    "id": "2",
-    "filename": "applinks-3",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/applinks/3.0/applicationlink"
-   },
-   {
-    "id": "3",
-    "filename": "field",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/field"
-   },
-   {
-    "id": "4",
-    "filename": "resolution",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/resolution"
-   },
-   {
-    "id": "5",
-    "filename": "priority",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/priority"
-   },
-   {
-    "id": "6",
-    "filename": "issuetype",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/issuetype"
-   },
-   {
-    "id": "7",
-    "filename": "jql-autocomplete",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/jql/autocompletedata"
-   },
-   {
-    "id": "8",
-    "filename": "userpicker",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/user/picker?query=a"
-   },
-   {
-    "id": "9",
-    "filename": "createmeta",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/issue/createmeta"
-   },
-   {
-    "id": "10",
-    "filename": "dashboard",
+    "filename": "dash.json",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://jira.telekom.de/rest/api/2/dashboard"
-   },
-   {
-    "id": "11",
-    "filename": "monitoring",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/monitoring/check"
-   },
-   {
-    "id": "12",
-    "filename": "license",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://jira.telekom.de/rest/api/2/license"
    }
   ]
  }

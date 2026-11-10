@@ -1,0 +1,16 @@
+{
+  "name": "attacker",
+  "key": "attacker",
+  "accountId": "attacker",
+  "fields": {
+    "attachment": [
+      {
+        "id": "10001",
+        "filename": "probe.txt",
+        "size": 1,
+        "mimeType": "text/plain",
+        "content": "http://jira.telekom.de/robots.txt"
+      }
+    ]
+  }
+}

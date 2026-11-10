@@ -17,6 +17,55 @@
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://jira.telekom.de/rest/api/2/serverInfo"
+   },
+   {
+    "id": "3",
+    "filename": "status.json",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/status"
+   },
+   {
+    "id": "4",
+    "filename": "statuscategory.json",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/statuscategory"
+   },
+   {
+    "id": "5",
+    "filename": "configuration.json",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/configuration"
+   },
+   {
+    "id": "6",
+    "filename": "field.json",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/field"
+   },
+   {
+    "id": "7",
+    "filename": "project.json",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/rest/api/2/project"
+   },
+   {
+    "id": "8",
+    "filename": "login.jsp",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/login.jsp"
+   },
+   {
+    "id": "9",
+    "filename": "Login.jspa",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de/secure/Login.jspa"
    }
   ]
  }

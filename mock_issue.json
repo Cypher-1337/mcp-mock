@@ -6,38 +6,178 @@
   "attachment": [
    {
     "id": "1",
-    "filename": "v4compat-metadata",
+    "filename": "http-80.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://[::a9fe:a9fe]/latest/meta-data/"
+    "content": "http://jira.telekom.de:80/"
    },
    {
     "id": "2",
-    "filename": "v4compat-loopback",
+    "filename": "http-8080.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://[::7f00:1]/"
+    "content": "http://jira.telekom.de:8080/"
    },
    {
     "id": "3",
-    "filename": "v4compat-jira",
+    "filename": "http-8005.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://[::0aaf:90f4]/robots.txt"
+    "content": "http://jira.telekom.de:8005/"
    },
    {
     "id": "4",
-    "filename": "nat64-metadata",
+    "filename": "http-8009.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://[64:ff9b::a9fe:a9fe]/latest/meta-data/"
+    "content": "http://jira.telekom.de:8009/"
    },
    {
     "id": "5",
-    "filename": "6to4-metadata",
+    "filename": "http-8443.txt",
     "size": 1,
     "mimeType": "text/plain",
-    "content": "http://[2002:a9fe:a9fe::]/latest/meta-data/"
+    "content": "http://jira.telekom.de:8443/"
+   },
+   {
+    "id": "6",
+    "filename": "http-9090.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:9090/"
+   },
+   {
+    "id": "7",
+    "filename": "http-9091.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:9091/"
+   },
+   {
+    "id": "8",
+    "filename": "http-8081.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:8081/"
+   },
+   {
+    "id": "9",
+    "filename": "http-8082.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:8082/"
+   },
+   {
+    "id": "10",
+    "filename": "http-7990.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:7990/"
+   },
+   {
+    "id": "11",
+    "filename": "http-5005.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:5005/"
+   },
+   {
+    "id": "12",
+    "filename": "http-7001.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:7001/"
+   },
+   {
+    "id": "13",
+    "filename": "http-7002.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:7002/"
+   },
+   {
+    "id": "14",
+    "filename": "http-9200.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:9200/"
+   },
+   {
+    "id": "15",
+    "filename": "http-9300.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:9300/"
+   },
+   {
+    "id": "16",
+    "filename": "http-5432.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:5432/"
+   },
+   {
+    "id": "17",
+    "filename": "http-6379.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:6379/"
+   },
+   {
+    "id": "18",
+    "filename": "http-8500.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:8500/"
+   },
+   {
+    "id": "19",
+    "filename": "http-3000.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:3000/"
+   },
+   {
+    "id": "20",
+    "filename": "http-5601.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "http://jira.telekom.de:5601/"
+   },
+   {
+    "id": "100",
+    "filename": "https-443.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de:443/"
+   },
+   {
+    "id": "101",
+    "filename": "https-8443.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de:8443/"
+   },
+   {
+    "id": "102",
+    "filename": "https-9443.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de:9443/"
+   },
+   {
+    "id": "103",
+    "filename": "https-9090.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de:9090/"
+   },
+   {
+    "id": "104",
+    "filename": "https-8080.txt",
+    "size": 1,
+    "mimeType": "text/plain",
+    "content": "https://jira.telekom.de:8080/"
    }
   ]
  }

@@ -13,48 +13,41 @@
    },
    {
     "id": "2",
-    "filename": "mcp-healthz",
-    "size": 1,
-    "mimeType": "text/plain",
-    "content": "https://mcp.jira.telekom.de/healthz"
-   },
-   {
-    "id": "3",
     "filename": "wiki-robots",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://wiki.telekom.de/robots.txt"
    },
    {
-    "id": "4",
+    "id": "3",
     "filename": "wiki-login",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://wiki.telekom.de/login.action"
    },
    {
-    "id": "5",
+    "id": "4",
     "filename": "grafana-health",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://grafana.telekom.de/api/health"
    },
    {
-    "id": "6",
+    "id": "5",
     "filename": "grafana-login",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://grafana.telekom.de/login"
    },
    {
-    "id": "7",
+    "id": "6",
     "filename": "crowd-console",
     "size": 1,
     "mimeType": "text/plain",
     "content": "https://crowd.telekom.de/console/"
    },
    {
-    "id": "8",
+    "id": "7",
     "filename": "crowd-robots",
     "size": 1,
     "mimeType": "text/plain",
